@@ -1,4 +1,4 @@
-package KolejkaPriorytetowa.abc;
+package KolejkaPriorytetowa;
 
 import java.util.ArrayDeque;
 import java.util.Scanner;

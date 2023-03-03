@@ -1,4 +1,4 @@
-package KolejkaPriorytetowa.abc;
+package KolejkaPriorytetowa;
 
 public class PersonCommandProcessor {
 
